@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "crawl"
+    "test": "crawl",
+    "start": "node src/index"
   },
   "author": "Benjamin Poulinet",
   "license": "ISC"
